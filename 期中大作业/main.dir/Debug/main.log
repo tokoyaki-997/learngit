@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\include/Angel.h(72,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\main.cpp(220,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\main.cpp(420,18): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\main.cpp(448,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\main.cpp(449,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\main.cpp(459,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\main.cpp(601,41): warning C4081: 应输入“newline”；找到“;”
+  main.vcxproj -> C:\Users\郑雨抒\Desktop\期中大作业_留空代码 (1)\期中大作业_留空代码\Debug\main.exe

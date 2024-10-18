@@ -1,0 +1,10 @@
+^C:\USERS\郑雨抒\DESKTOP\期中大作业_留空代码 (1)\期中大作业_留空代码\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/郑雨抒/Desktop/期中大作业_留空代码 (1)/期中大作业_留空代码" "-BC:/Users/郑雨抒/Desktop/期中大作业_留空代码 (1)/期中大作业_留空代码" --check-stamp-file "C:/Users/郑雨抒/Desktop/期中大作业_留空代码 (1)/期中大作业_留空代码/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

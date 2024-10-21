@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "Bye BAD World!\n";
+    std::cout << "Bye World!\n";
     std::cout << "------------\n";
     std::cout << "2022150049-郑雨抒\n";
     printGreeting();

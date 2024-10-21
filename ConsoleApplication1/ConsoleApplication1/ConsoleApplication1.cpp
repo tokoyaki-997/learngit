@@ -2,12 +2,14 @@
 //
 
 #include <iostream>
+#include "helper.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Bye BAD World!\n";
     std::cout << "------------\n";
     std::cout << "2022150049-郑雨抒\n";
+    printGreeting();
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

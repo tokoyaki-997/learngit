@@ -1,3 +1,0 @@
-C:/Users/郑雨抒/Desktop/期中大作业_留空代码 (1)/期中大作业_留空代码/CMakeFiles/main.dir
-C:/Users/郑雨抒/Desktop/期中大作业_留空代码 (1)/期中大作业_留空代码/CMakeFiles/ALL_BUILD.dir
-C:/Users/郑雨抒/Desktop/期中大作业_留空代码 (1)/期中大作业_留空代码/CMakeFiles/ZERO_CHECK.dir
